@@ -1,9 +1,23 @@
 body{
-    background-color:lightpink;
+    background-color: hotpink;
     text-align: center;
-
-
 }
 
-git config --global user.name "IsabelaSchwade"
-git config --global user.email "isabelaschwade@gmail.com"
+img{
+    width: 350px;
+}
+
+img {
+    border-radius: 70px;
+  }
+
+  .itemmenu{
+    padding: 10px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    text-decoration: none;
+    color:black;
+  }
+
+
+
