@@ -1,6 +1,8 @@
 body{
     background-color: hotpink;
-    text-align: center;
+    text-align:center;
+    font-size: 15px;
+    
     
 }
 
@@ -20,6 +22,31 @@ img {
     color:black;
   }
 
+  div.box{
+    font-size: 50px;
+  }
+
+  #livros {
+    text-align: justify; /* Alinh.amento justificado */
+    font-size: 21px;
+    margin: 10px;
+}
+
+#livros2 {
+  text-align: center; 
+}
+
+#filmes {
+  text-align: justify; /* Alinhamento justificado */
+  font-size: 21px;
+  margin: 10px;
+}
+
+#filmes2{
+text-align: center; 
+}
+
+ 
 
 
   
